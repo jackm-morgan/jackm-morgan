@@ -15,7 +15,7 @@ MEng Aeronautical Engineering Student at Durham University.
 
 Student Affiliate Member of RAeS & IMechE
 
-Currently Working on [Talk-to-Fly: Natural Language-Guided UAV Navigation Using Large Language Models][https://www.github.com/jackm-morgan/Talk-to-Fly]
+Currently Working on [Talk-to-Fly: Natural Language-Guided UAV Navigation Using Large Language Models](https://www.github.com/jackm-morgan/Talk-to-Fly)
 <!--
 - 🔭 I’m currently working on:
   - An investigation into the Riemann Hypothesis: [Visualising the Riemann Hypothesis](https://www.github.com/jackm-morgan/Riemann-Hypothesis)
